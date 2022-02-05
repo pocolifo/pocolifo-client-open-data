@@ -1,0 +1,20 @@
+[
+  {
+    "server_id": "hypixel",
+    "triggers": [
+      "Winners - ",
+      "Winners",
+      "Winner: ",
+      "1st Place - ",
+      "1st Place: ",
+      "1st Killer - ",
+      "Winner #1 (",
+      "Zombies - ",
+      "The Bridge Duel - ",
+      "Dragon Wars",
+      "Most Kills - ",
+      "UHC Duel - ",
+      "Criminals won the game!"
+    ]
+  }
+]
